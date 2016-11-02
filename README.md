@@ -1,2 +1,2 @@
 # touchTalk
-Use to build site that help students speak when they can't.
+Use to build a site or app that help students speak when they can't.
