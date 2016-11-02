@@ -1,0 +1,159 @@
+body {
+    background-color: grey;
+}
+
+.content {
+    width: 80%;
+    max-width: 900px;
+    min-width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+	display: table;
+}
+
+.header {
+    padding: 10px;
+    margin: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 80px;
+    font-family: impact;
+}
+
+.interface {
+    display: flex;
+    height: 100px;
+    padding: 20px;
+}
+
+.interface2 {
+    display: flex;
+    margin: auto;
+}
+
+.largeButtonBlue {
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	color: black;
+    text-decoration: none;
+    width: 30%;
+    background-color: blue;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.largeButtonRed {
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	color: black;
+    text-decoration: none;
+    width: 30%;
+    background-color: red;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.largeButtonPurple {
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	color: black;
+    text-decoration: none;
+    width: 30%;
+    background-color: purple;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.largeButtonGold {
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	color: black;
+    text-decoration: none;
+    width: 30%;
+    background-color: gold;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.smallButtonRed {
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	border-radius: 8px;
+	width: 40%;
+	padding: 5px;
+    background-color: red;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    color: black;
+    text-decoration: none;
+}
+
+.smallButtonGreen {
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	color: black;
+    text-decoration: none;
+    width: 25%;
+    background-color: green;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.abutton {
+    padding-top: 10%;
+    color: black;
+    text-decoration: none;
+}
+
+.button, .up, .down, .right, .left {
+	width: 25%;
+	border: 3px solid black;
+	border-radius: 5px;
+	text-align:center;
+	background-color:yellow;
+    padding: 10px;
+    height: 40px;
+}
+
+.up, .down, .right, .left {
+	margin-right: 8px;
+	margin-left: 8px;
+}
+
+.height {
+	width: 100%;
+	display: flex;
+	height: 100px;
+}
+
+#c2, #c3, #c4 {
+	display:none;
+}
+
+
+
